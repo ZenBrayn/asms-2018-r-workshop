@@ -2,6 +2,11 @@
 library(mzR)
 library(tidyverse)
 
+cat("This example will not work without the underlying data used in the example
+  (not distributed here due to file size).  The code is provided here for reference.\n")
+stop("End user needs to supply a directory of mzML files; specify in data_dir below; further
+  code modifications will need to be made depending on the structure of your data.")
+
 # Directory where the mzML files are located
 data_dir <- "/Users/rwbenz/Clients/SCBI/20171201_DBS_20Samples/mzML"
 mzml_files <- list.files(data_dir, pattern = "\\.mzML$")
