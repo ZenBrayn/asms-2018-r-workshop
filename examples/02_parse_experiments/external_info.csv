@@ -1,0 +1,21 @@
+"barcode","patient","collection_time","collection_date","notes"
+"SCBI1709001","P01",13:15:00,"09-20-2017","after lunch"
+"SCBI1709002","P02",07:10:00,"09-20-2017",NA
+"SCBI1709003","P02",11:40:00,"09-20-2017","poor bleed through pic taken"
+"SCBI1709004","P01",09:04:00,"09-20-2017","~1 hr after breakfast"
+"SCBI1709005","P02",19:52:00,"09-21-2017",NA
+"SCBI1709006","P01",08:55:00,"09-21-2017","after breakfast triplicate injection 1"
+"SCBI1709007","P02",15:20:00,"09-19-2017",NA
+"SCBI1709008","P02",19:35:00,"09-19-2017",NA
+"SCBI1709009","P01",07:11:00,"09-20-2017","first collection of the day fasted"
+"SCBI1709010","P01",21:20:00,"09-20-2017","after dinner"
+"SCBI1709011","P02",09:12:00,"09-20-2017","poor bleed through pic taken"
+"SCBI1709012","P02",05:03:00,"09-20-2017","red on spot (filter failure?) picture taken"
+"SCBI1709013","P01",08:55:00,"09-21-2017","after breakfast triplicate injection 2"
+"SCBI1709014","P02",21:17:00,"09-21-2017",NA
+"SCBI1709015","P01",08:55:00,"09-21-2017","after breakfast triplicate injection 3"
+"SCBI1709016","P02",06:20:00,"09-19-2017",NA
+"SCBI1709017","P01",16:50:00,"09-20-2017","before dinner"
+"SCBI1709018","P01",06:48:00,"09-21-2017","first collection of the day fasted"
+"SCBI1709019","P02",17:47:00,"09-21-2017",NA
+"SCBI1709020","P01",11:02:00,"09-20-2017","before lunch"
