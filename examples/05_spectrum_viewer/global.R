@@ -1,6 +1,6 @@
 
 # Location and listing of the files
-mzml_dir <- "/Users/rwbenz/Clients/SCBI/20171201_DBS_20Samples/mzML"
+mzml_dir <- "PATH_TO_MZML_FILES"
 mzml_names <- list.files(mzml_dir, pattern = "\\.mzML$")
 
 

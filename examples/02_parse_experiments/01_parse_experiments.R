@@ -8,7 +8,7 @@ stop("End user needs to supply a directory of mzML files; specify in data_dir be
   code modifications will need to be made depending on the structure of your data.")
 
 # Directory where the mzML files are located
-data_dir <- "/Users/rwbenz/Clients/SCBI/20171201_DBS_20Samples/mzML"
+data_dir <- "ENTER_MZML_DIRECTORY_PATH_HERE"
 mzml_files <- list.files(data_dir, pattern = "\\.mzML$")
 # External information related to the underlying samples
 ext_info <- read_csv("external_info.csv")

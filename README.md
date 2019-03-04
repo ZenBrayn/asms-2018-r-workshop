@@ -24,3 +24,16 @@ This workshop will focus on the various ways that R can be used for mass spectro
 | 6:10 - 6:25 | The Tidyverse & Shiny |
 | 6:25 - 6:40 | End-to-End Analysis Workflows |
 | 6:40 - 7:00 | Questions & Discussion |
+
+
+## Workshop Materials
+
+- [Slides](https://github.com/ZenBrayn/asms-2018-r-workshop/blob/master/asms_2018_rworkshop.pdf)
+- Examples
+    - [dplyr Example](https://github.com/ZenBrayn/asms-2018-r-workshop/tree/master/examples/01_dplyr_example)
+    - [Parsing Experiment Information](https://github.com/ZenBrayn/asms-2018-r-workshop/tree/master/examples/02_parse_experiments)*
+    - [Reviewing Experimental Data](https://github.com/ZenBrayn/asms-2018-r-workshop/tree/master/examples/03_review_experiments)
+    - [Shiny: Interactive Data Table](https://github.com/ZenBrayn/asms-2018-r-workshop/blob/master/examples/04_shiny_data_table)
+    - [Shiny: Interactive Spectrum Viewer](https://github.com/ZenBrayn/asms-2018-r-workshop/tree/master/examples/05_spectrum_viewer)*
+
+  **note: example data not provided due to file size; you can provide your own data by pointing to a directory containing mzML files within the code.*
